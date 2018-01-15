@@ -12,7 +12,7 @@ import java.security.SecureRandom;
 public class MainActivity extends AppCompatActivity {
 
     private boolean clear = true;
-
+//Read
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
