@@ -95,3 +95,5 @@ public class MainActivity extends AppCompatActivity {
         return max;
     }
 }
+
+// Examples for invisible and SecureRandom
